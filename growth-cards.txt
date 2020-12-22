@@ -1,0 +1,23 @@
+Energy per turn:
+0/1/1/2/2/(2)/3/4/4/5/6/7/8/(9)/(12)
+Card plays:
+1/1/(1)/2/2/2/3/3/4/5/6
+Other:
+Reclaim 1
+Elements: Sun/Moon/Air/Water/Water/(Water)/(Water)/(2 Water)/Earth/(Earth)/Fire/(Fire)/(Fire)/(Fire+Plant)/Plant/Plant/(Animal)/(Animal)/Any/Any
+(Push 1 Dahan from 1 of your lands)
+(Move a Presence 1)/(Move a Presence 1)
+(Earth, Reclaim 1)
+(Earth, Any)
+(2 card plays, Earth)
+(+1 card play/turn)/(+1 card play/turn)/(+1 card play/turn)
+(3 Energy, Prepare 1 Element Marker)
+(6 Energy, Prepare 1 Element Marker)
+(Discard 2 Element Markers for +1 Card Play)
+(2 Energy, Air)
+(3 Energy, Plant)
+(4 Energy, Air)
+(5 Energy, Reclaim 1)
+(5 Card Plays, Reclaim 1)
+(Pay 2 Energy to Gain a Power Card)
+

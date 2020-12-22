@@ -1,0 +1,64 @@
+OCEAN'S HUNGRY GRASP
+* Complexity: High
+* Flavor
+The hunger of the ocean runs deep and powerful, sometimes patient,
+sometimes tempestuous and angry. It slowly wears away at rocky shores,
+or devours half an island during a hurricane. It lures humans out onto the
+water with its siren call, then consumes ship and crew alike unless the
+proper offerings are made.
+
+The ocean’s voraciousness keeps the Dahan from frequent sea travel,
+though they still manage a trading expedition every decade or so. These
+trading-trips take the cooperation of several families, and always involve
+at least two spirit-speakers. That way, even if one perishes abroad, the
+expedition will still be able to get home.
+* Play Style:
+Extremely good at assaulting the coasts where the Invaders start out
+strong, but quite weak inland - the ocean is not accustomed to
+affecting events so far ashore. Its Presence shifts in and out like
+the tide, which can be tricky to manage, but permits repositioning and
+tactical retreats or offensives in the hands of a skillful player. Has
+fairly inexpensive Unique Powers, but the energy gained from drowning
+Invaders can be necessary in stepping up to more potent Powers.
+* Setup
+Put 2 Presence on your starting board: 1 in the Ocean, and 1 in a
+Coastal land of your choice.
+* Growth (Pick one)
+Option 1: Reclaim all; Gain Power card; Gather 1 Presence into each Ocean; Gain 2 Energy
+Option 2: Add a Presence in any Ocean; Add a Presence in any Ocean; Gain 1 Energy
+Option 3: Gain Power card; Push 1 Presence from each Ocean; Add a Presence to a Coastal land, Range 1
+* Presence Tracks
+** Energy
+0/Moon/Water/1/Earth/Water/2
+** Card Plays
+1/2/2/3/4/5
+* Special Rules
+** Ocean in Play
+You may add/move Presence into Oceans, but may not add/move Presence
+into Inland lands. On boards with your Presence, treat Oceans as
+Coastal Wetlands for Powers and Blight. You Drown any Invaders or
+moved to those oceans.
+** Drowning
+Destroys Drowned pieces, placing Drowned Invaders here. At any
+time you may exchange (X) Health of these Invaders for 1 Energy,
+where X = number of players. (Ignore modifiers to Invader Health.)
+* Innate Powers
+** Pound Ships to Splinters
+Speed: Fast
+Range: Presence: 0
+Target: Coastal
+1 Moon, 1 Air, 2 Water: 1 Fear
+2 Moon, 1 Air, 3 Water: +1 Fear
+3 Moon, 2 Air, 4 Water: +2 Fear
+** Ocean Breaks the Shore
+Speed: Slow
+Range: Presence: 0
+Target: Coastal
+2 Water, 1 Earth: Drown 1 Town.
+3 Water, 2 Earth: You may instead Drown 1 City.
+4 Water, 3 Earth: Also, Drown 1 Town/City.
+* Unique Powers
+** Call of the Deeps
+** Grasping Tide
+** Swallow the Land-Dwellers
+** Tidal Boon

@@ -1,0 +1,7 @@
+* Base game
+** Memory Fades to Dust
+4 Blight per player
+At the start of each Invader Phase, each Spirit Forgets a Power or destroys 1 of their Presence.
+** Downward Spiral
+5 Blight per player
+At the start of each Invader Phase, each Spirit destroys 1 of their Presence.

@@ -1,0 +1,77 @@
+RIVER SURGES IN SUNLIGHT
+* Flavor
+On most of Spirit Island, the rivers run high during the rainy season, as one
+would expect. There is one exception: the lingering remains of an ancient
+curse keep a high ridge shrouded in ice, and when the sun beats down, it
+feeds a single river with abundant meltwater.
+
+River Surges in Sunlight is a spirit of rushing water, inundation, and
+bounty out of season.
+
+It gets along well with the Dahan who farm along its banks; they reap
+the benefit of good harvests, and tend to the health of the river in
+its drier times. Both gain.
+* Play Style:
+While capable of some direct offense, River Surges in Sunlight is best
+at flooding out Explorers and Towns, displacing them from lands where
+they might Build or Ravage. The ability to get free Sacred Sites makes
+a wide range of Powers more useful.
+* Setup
+Put 1 Presence on your starting board in the highest-numbered Wetlands.
+* Growth (Pick one)
+Option 1: Reclaim all; Gain Power card; Gain 1 Energy
+Option 2: Add Presence, Range 1; Add Presence, Range 1
+Option 3: Gain Power card; Add Presence, Range 2
+* Presence Tracks
+** Energy
+1/2/2/3/4/4/5
+** Card Plays
+1/2/2/3/Reclaim One/4/5
+* Special Rules
+** River's Domain
+Your Presence in Wetlands count as Sacred Sites.
+* Innate Powers
+** Massive Flooding
+Speed: Slow
+Range: SacredSite: 1
+Target: Any
+1 Sun, 2 Water: Push 1 Explorer / Town.
+2 Sun, 3 Water: Instead, 2 Damage. Push up to 3 Explorer / Town.
+3 Sun, 4 Water, 1 Earth: Instead, 2 Damage to each Invader.
+* Unique Powers:
+** Boon of Vigor
+Cost: 0
+Speed: Fast
+Target: Any Spirit
+Elements: Sun, Water, Plant
+Description: If you target yourself, gain 1 Energy. If you target another Spirit, they gain 1 Energy per Power Card they played this turn.
+** River's Bounty
+Cost: 0
+Speed: Slow
+Range: Presence: 0
+Target: Any
+Elements: Sun, Water, Animal
+Description: Gather up to 2 Dahan. If there are now at least 2 Dahan, add 1 Dahan and gain 1 Energy.
+** Wash Away
+Cost: 1
+Speed: Slow
+Range: Presence: 1
+Target: Any
+Elements: Water, Earth
+Description: Push up to 3 Explorer / Town
+** Flash Floods
+Cost: 2
+Speed: Fast
+Range: Presence: 1
+Target: Any
+Elements: Sun, Water
+Description: 1 Damage. If target land is Coastal, +1 Damage.
+* Power Progression
+** Uncanny Melting
+** Nature's Resilience
+** Pull Beneath the Hungry Earth
+** Accelerated Rot (Major)
+** Song of Sanctity
+** Tsunami (Major)
+** Encompassing Ward
+

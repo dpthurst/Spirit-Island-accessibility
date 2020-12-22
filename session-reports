@@ -1,0 +1,53 @@
+* Session 1
+Title: Spirit Island with a blind friend
+Last night I played a first game of Spirit Island with my blind friend Sara. It worked, and she liked it! I look forward to more games, but wanted to record the process for anyone interested.
+
+The most important thing was figuring out how to make the map accessible. At Sara's suggestion, we texturized the island boards: I glued on yarn at all the land borders, then added textures to the regions: green felt in the Jungles, plastic wrap on the Wetlands, and parchment paper in the Sands. The Mountains were left as plain paper.
+[image board-textures: A Spirit Island board, with yarn glued on the borders between lands and on the outside of the board. The two Jungle regions are covered with green felt, the two Wetlands are covered with plastic wrap, and the two Sands are covered with parchment paper.]
+I printed the board 30% larger than the boards that come in the box on two sheets of letter paper, glued the sheets to a cardboard box, and cut them out. See below for notes on how this could be improved. You can use whatever you have on hand, but do spot-checks to make sure the textures will be distinct enough. (This was also how I made island boards during playtesting, though typically I would make something less sturdy.)
+[b]Island board planned improvements:[/b]
+* The plastic wrap and parchment paper were too similar in texture. I will redo the sands with sandpaper.
+* The boards slid around too much. I will try wax paper on the back to help with that. It didn't help that the underside of the boards as I made them was the glossy outside of the original cardboard box I used.
+* The boards were also not flat: they bowed up away from the table, which made it easy to press down in the wrong place and bounce pieces off. I'm not sure how to fix this.
+* The regions of lands on the map are fairly complicated. I probably won't fix these boards, but if I were to redo them, I would simplify the regions and make them more round as feasible. For anyone else doing this, it is important to keep the spots where land borders touch the edge of the island in exactly the same spot. You can do what you want on the inside.
+* Small thing, but I don't think the "coastal" distinction was as obvious as it could have been. (Currently the Ocean regions have no yarn border.)
+
+Next up was the Spirit panel, where I knew the Presence tracks needed to be made accessible. We picked out the Spirit in advance.
+[image river-panel: The panel for River Surges in Sunlight, with two rows of Braille numbers applied as labels: an upper row for the Energy track, and a lower row for Card Plays. Wooden Presence tokens are placed above and below these tracks.]
+Sara is a heavy Braille user, so we used that extensively throughout this project. I added Braille labels to the Spirit panels I had from playtesting. At first my idea was to put the Presence tokens on top of the Braille labels, but this very rapidly proved unworkable: they just didn't balance there very well. So instead the tokens went above and below the track.
+[b]Planned panel improvements:[/b]
+* This is too big; it gets in the way of everything else that needs to be within reach. Most of the information was being read off of the electronic version of the Spirit I provided, and only the tracks are necessary.
+* On the other hand, the tracks were too small; there needs to be more room because things get moved around. (Note this panel is already about 20% larger than the standard ones.)
+* Put the labels "Energy/turn" and "Card Plays" on; I simplifed them away, but they are quite helpful and should be preserved in Braille.
+
+Sara will be redoing these tracks herself--it is for her benefit, and doesn't need to be accessible to me.
+
+For the power cards, since it was a teaching game, we were going to use the power progressions, which dramatically reduces the number of cards to modify.
+[image river-cards: (top row) River Surges in Sunlight's Unique power cards, Boon of Vigor, River's Bounty, Wash Away, and Flash Floods. (bottom row) The power progression: Uncanny Melting, Nature's Resilience, Pull Beneath the Hungry Earth, Accelerated Rot, Song of Sanctity, Tsunami, Encompassing Ward. All cards have shortened Braille labels attached.]
+The full card titles are too long, and would take up too much space on the card. I gave Sara the list of cards, and she picked her own shortenings; for instance, "Nature's Resilience" became "nat res". We didn't have a Brailler (which can raise dots without obscuring the image), so the labels do cover up card elements. For this test we put the labels at the bottom of the card, covering up some text.
+[b]Planned changes to cards[/b]
+* We will put the labels  over the card images.
+* Sara is considering ways to put the elements directly on the cards.
+* Even better would be a Brailler, but Sara's machine is in Italy and shipping is expensive.
+
+All this was supplemented by a computer, with Sara's usual setup. This included a text file for the Spirit that I had prepared, and the SICK database, which is accessible and conveniently has all the full text. There was one accessibility improvement for SICK (making the headers be tagged in HTML) that I have passed on.
+
+And then we played the game.
+[image game-play: Spirit Island in play. There are two crafted island boards, with invader pieces, Dahan, blue Presence disks, and clear glass beads (for alternate Presence). In the distance is the crafted River Surges in Sunlight panel, along with piles of Energy tokens and Invaders.]
+I played Shadow Flickers like Flame, and use glass beads to have distinguishable Presence. Fortunately all the pieces have distinguishable shapes after a little practice. I ran the Invader board, including the Invader cards and Fear cards.
+[b]Planned changes to overall play[/b]
+* Use token trays. I have these, but did not bring them out; I didn't realize how helpful they would be for Sara to keep various pieces in fixed locations.
+* Braille the invader cards. Understanding the flow of invader cards is the key to getting in to the game, and that needs to be as easily accessible as possible.
+* Move the boards closer to the blind player from the start. They really need to be able to reach over the whole board with ease.
+* Add more different shapes for Spirit Presence. Sara suggested buttons. In addition, the glass beads did not pop out so much to me as the sighted player.
+
+And she liked the game! There were some difficulties, as alluded to above, but it overall worked.
+
+After the game, I realized this setup, with the planned improvements
+was actually quite close to a fully accessible setup, where a blind player could play solo. The Fear cards are also easy to Braille, as are the Blight card and Terror level dividers. A Fear tray like the Broken Token one will help in making the two piles more distinct and structuring the Invader area.
+
+[b][size=14]Things that were good ideas:[/size][/b]
+* Keep the player count low. Understanding just one board was pretty complicated, and trying to take in multiple boards would have been too much.
+* Texturize the board and use yarn to separate regions. Beyond the obvious, the yarn helped keep pieces from being pushed to the wrong region.
+* The SICK database was tremendously helpful.
+* Print the boards larger. This might cause problems in larger games, but it did make feeling around the board more feasible.

@@ -1,0 +1,79 @@
+LIGHTNING’S SWIFT STRIKE
+* Flavor
+The child of a passing storm-spirit, Lightning’s Swift Strike danced off the
+shores of the island many ages ago, and liked it enough to stay. It spends
+much of its time resting and quiet, waking up to dance through the sky
+when the winds blow strong.
+It only concerns itself occasionally with the Dahan, usually appearing out
+of nowhere to send them off on some obscure errand. The Dahan
+cooperate — partly out of a wary respect for Lightning’s power, but as
+much for the sake of the Thunderspeaker - Lightning’s child - who is a
+patron and ally of their people.
+* Play Style
+Virtually all offense to start with: without a more defensive
+teammate, Blight may become a problem. Excellent at destroying
+buildings, less good at containing Explorers. Using Thundering
+Destruction tends to be a burst affair: a turn or two to position and
+build up Energy, followed by a really big turn. Starting Powers are
+extremely focused on Air and Fire: good for Thundering Destruction,
+bad for Major Power versatility.
+* Setup
+Put 2 Presence on your starting board in the highest-numbered Sands.
+* Growth (Pick one)
+Option 1: Reclaim all; Gain Power card; Gain 1 Energy
+Option 2: Add Presence, Range 2; Add Presence, Range 0
+Option 3: Add Presence, Range 1; Gain 3 Energy
+* Presence Tracks
+** Energy
+1/1/2/2/3/4/4/5
+** Card Plays
+2/3/4/5/6
+* Special Rules
+** Swiftness of Lightning
+For every Air you have, you may use 1 Slow Power as if it were Fast. (Power Cards or your Innate Powers.)
+* Innate Powers
+** Thundering Destruction
+Speed: Slow
+Range: SacredSite: 1
+Target: Any
+3 Fire, 2 Air: Destroy 1 Town.
+4 Fire, 3 Air: You may instead destroy 1 City.
+5 Fire, 4 Air, 1 Water: Also, destroy 1 Town/City.
+5 Fire, 5 Air, 2 Water: Also, destroy 1 Town/City.
+* Unique Powers
+** Harbingers of the Lightning
+Cost: 0
+Speed: Slow
+Range: Presence: 1
+Target: Any
+Elements: Fire, Air
+Description: Push up to 2 Dahan. 1 Fear if you pushed any Dahan into a land with Town / City
+** Lightning's Boon
+Cost: 1
+Speed: Fast
+Target: Any Spirit
+Elements: Fire, Air
+Description: Target Spirit may use up to 2 Slow Powers as if they were Fast Powers this turn
+** Shatter Homesteads
+Cost: 2
+Speed: Slow
+Range: SacredSite: 2
+Target: Any
+Elements: Fire, Air
+Description: 1 Fear. Destroy 1 Town.
+** Raging Storm
+Cost: 3
+Speed: Slow
+Range: Presence: 1
+Target: Any
+Elements: Fire, Air, Water
+Description: 1 Damage to each Invader.
+* Power Progression
+Delusions of Danger (Minor)
+Call to Bloodshed (Minor)
+Powerstorm (Major - Forget a Power)
+Purifying Flame (Minor)
+Pillar of Living Flame (Major - Forget a Power)
+Entrancing Apparitions (Minor)
+7. Call to Isolation (Minor)
+

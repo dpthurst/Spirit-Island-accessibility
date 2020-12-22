@@ -1,0 +1,76 @@
+SHADOWS FLICKER LIKE FLAME
+* Flavor
+The Dahan say, “If the long shadows of sunset stretching beside you begin
+to shift and flicker like tongues of hungry fire, do not run. That will only
+feed your fear, and whet the shadows’ appetite.”
+This spirit invokes an instinctive fear in humans, perhaps because it doesn’t
+think at all like humans do - it’s more alien-minded than most. Until a few
+generations ago, the Dahan carefully propitiated it only at a distance,
+steering as clear as they could. But during the Years of the Relentless Sun,
+it shaded large swaths of the island, averting catastrophe; since then, many
+Dahan have been willing to carefully - and cautiously - heed its words,
+feeling they have a debt they ought to try to repay.
+* Play Style:
+Good at causing Fear and picking off lone Explorers and Towns, containing the
+Invaders. Not so good at massive damage - may need to rely on allies to handle
+thoroughly colonized lands.
+The ability to boost Range gives more flexibility to Range 0 Powers, and can be
+important in larger games.
+* Setup
+Put 3 Presence on your starting board: 2 in the highest-numbered Jungle and 1 in land #5.
+* Growth (Pick one)
+Option 1: Reclaim all; Gain Power card
+Option 2: Gain Power card; Add Presence, Range 1
+Option 3: Add Presence, Range 3; Gain 3 Energy
+* Presence Tracks
+** Energy
+0/1/3/4/5/6
+** Card Plays
+1/2/3/3/4/5
+* Special Rules
+** Shadows of the Dahan
+Whenever you use a Power, you may pay 1 Energy to target a land with Dahan regardless of the Power’s Range. (Power Cards or your Innate Powers.)
+* Innate Powers
+** Darkness Swallows the Unwary
+Speed: Fast
+Range: SacredSite: 1
+Target: Any
+2 Moon, 1 Fire: Gather 1 Explorer.
+3 Moon, 2 Fire: Destroy up to 2 Explorer. 1 Fear per Explorer Destroyed.
+4 Moon, 3 Fire, 2 Air: 3 Damage. 1 Fear per Invader destroyed by this Damage.
+* Unique Powers
+** Concealing Shadows
+Cost: 0
+Speed: Fast
+Range: Presence: 0
+Target: Any
+Elements: Moon, Air
+Description: 1 Fear. Dahan take no damage from Ravaging Invaders this turn.
+** Favors Called Due
+Cost: 1
+Speed: Slow
+Range: Presence: 1
+Target: Any
+Elements: Moon, Air, Animal
+Description: Gather up to 4 Dahan. If Invaders are present and Dahan now outnumber them, 3 Fear.
+** Mantle of Dread
+Cost: 1
+Speed: Slow
+Target: Any Spirit
+Elements: Moon, Fire, Air
+Description: 2 Fear. Target Spirit may Push 1 Explorer and 1 Town from one of their lands.
+** Crops Wither and Fade
+Cost: 1
+Speed: Slow
+Range: Presence: 0
+Target: Any
+Elements: Moon, Fire, Plant
+Description: 2 Fear. Replace 1 Town with 1 Explorer. -or- Replace 1 City with 1 Town.
+* Power Progression
+Dark and Tangled Woods (Minor)
+Shadows of the Burning Forest (Minor)
+The Jungle Hungers (Major - Forget a Power)
+Land of Haunts and Embers (Minor)
+Terrifying Nightmares (Major - Forget a Power)
+Call of the Dahan Ways (Minor)
+Visions of Fiery Doom (Minor)

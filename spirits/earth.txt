@@ -1,0 +1,75 @@
+VITAL STRENGTH OF THE EARTH
+* Flavor
+A spirit of great and unhurried power. The life that earth yields up to roots,
+the ground supporting the life that lives upon it. The patience of seasons
+and of stone.
+It is not usually a direct benefactor of the Dahan - rather than giving
+blessings, it prefers to work in concert with them, lending power to joint
+undertakings.
+Currently, it is trying to rouse itself to fight against the Invaders, but this
+swift and direct action runs somewhat counter to its nature.
+* Play Style:
+Powerful but slow: has potent Power Cards and an excellent Energy
+income, but starts with only one card play per turn, and Growth is
+limited to adding one Presence per turn. Also slow to change: learning
+new Powers carries slightly more cost than reclaiming played Power
+Cards.
+* Setup
+Put 3 Presence on your starting board: 2 in the highest-numbered Mountain and 1 in the highest-numbered Jungle
+* Growth (Pick one)
+Option 1: Reclaim all; Add Presence, Range 2
+Option 2: Gain Power card; Add Presence, Range 0
+Option 3: Add Presence, Range 1; Gain 2 Energy
+* Presence Tracks
+** Energy
+2/3/4/6/7/8
+** Card Plays
+1/1/2/2/3/4
+* Special Rules
+** Earth's Vitality
+Defend 3 in every land where you have Sacred Site.
+* Innate Powers
+** Gift of Strength
+Speed: Fast
+Target: Any Spirit
+1 Sun, 2 Earth, 2 Plant: Once this turn, Target Spirit may Repeat 1 Power Card with Energy cost of 1 or less.
+2 Sun, 3 Earth, 2 Plant: Instead, the Energy cost limit is 3 or less.
+2 Sun, 4 Earth, 3 Plant: Instead, the Energy cost limit is 6 or less.
+* Unique Powers
+** Draw of the Fruitful Earth
+Cost: 1
+Speed: Slow
+Range: Presence: 1
+Target: Any
+Elements: Earth, Plant, Animal
+Description: Gather up to 2 Explorer. Gather up to 2 Dahan.
+** Guard the Healing Land
+Cost: 3
+Speed: Fast
+Range: SacredSite: 1
+Target: Any
+Elements: Water, Earth, Plant
+Description: Remove 1 Blight. Defend 4.
+** A Year of Perfect Stillness
+Cost: 3
+Speed: Fast
+Range: Presence: 1
+Target: Any
+Elements: Sun, Earth
+Description: Invaders skip all Actions in target land this turn.
+** Rituals of Destruction
+Cost: 3
+Speed: Slow
+Range: SacredSite: 1
+Target: Dahan
+Elements: Sun, Moon, Fire, Earth, Plant
+Description: 2 Damage. If target land has at least 3 Dahan, +3 Damage and 2 Fear.
+* Power Progression
+Rouse the Trees and Stones (Minor)
+Call to Migrate (Minor)
+Poisoned Land (Major - Forget a Power)
+Devouring Ants (Minor)
+Vigor of the Breaking Dawn (Major - Forget a Power)
+Voracious Growth (Minor)
+Savage Mawbeasts (Minor)
+

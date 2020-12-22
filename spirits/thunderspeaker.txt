@@ -1,0 +1,61 @@
+THUNDERSPEAKER
+* Complexity: Moderate
+* Flavor
+Child of the Lightning, once known as Bright Thunder Roars in the days
+when it tore across the land as an avalanche of sound and chaos. It lost
+that form when the Stalker of Hidden Secrets imprisoned it in a canyon,
+binding it to echo perpetually back and forth until its thunder died out or
+the stones of the island wore away.
+
+The Dahan freed it from that imprisonment. Weakened but grateful,
+Bright Thunder Roars bound itself to aid the Dahan until a generation had
+passed for every year of its imprisonment, and in so binding changed its
+nature, becoming both less and more than it had been. It often takes
+human form, now, and with centuries’ practice wears it with ease.
+
+Chiefs call on the Thunderspeaker only in times of great need; it has not
+been much seen since the destruction of the Servant Cults.
+* Play Style:
+Has a keen interest in where the Dahan are - partly because so many of its starting
+powers work through them, partly because its Presence can move along with them.
+When picking new Power Cards, it will often want to take good Dahan-centric
+Powers, but it can also branch out into other areas.
+* Setup
+Put 2 Presence on your starting board: 1 each of the 2 lands with the
+most Dahan.
+* Growth (Pick one)
+Option 1: Reclaim all; Gain Power card; Gain Power card
+Option 2: Add Presence to land with Dahan, Range 2; Add Presence to land with Dahan, Range 1
+Option 3: Add Presence, Range 1; Gain 4 Energy
+* Presence Tracks
+** Energy
+1/Air/2/Fire/Sun/3
+** Card Plays
+1/2/2/3/Reclaim 1/3/4
+* Special Rules
+** Ally of the Dahan
+Your Presence may move with Dahan. (Whenever a Dahan moves from 1 of
+your lands to another land, you move 1 Dahan along with it.)
+** Sworn to Victory
+For each Dahan destroyed by Invaders Ravaging a land, destroy 1 of
+our Presence within Range 1. (After losing Presence to Blight, if relevant.)
+* Innate Powers
+** Gather the Warriors
+Speed: Slow
+Range: Presence: 1
+Target: Any
+4 Air: This Power may be Fast.
+1 Animal: Gather up to 1 Dahan per Air you have. Push up to 1 Dahan
+per Sun you have.
+** Lead the Furious Assault
+Speed: Slow
+Range: Presence: 0
+Target: Any
+4 Air: This Power may be Fast.
+2 Sun, 1 Fire: Destroy 1 Town for every 2 Dahan in target land.
+4 Sun, 3 Fire: Destroy 1 City for every 3 Dahan in target land.
+* Unique Powers
+** Voice of Thunder
+** Words of Warning
+** Sudden Ambush
+** Manifestations of Power and Glory

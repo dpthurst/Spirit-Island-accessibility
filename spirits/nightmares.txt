@@ -1,0 +1,71 @@
+BRINGER OF DREAMS AND NIGHTMARES
+* Complexity: High
+* Flavor
+When the moon is bright, and the leaves overhead are thin enough to let stray beams fall to earth, the Bringer of Dreams and Nightmares may sometimes be spied, an apparition of pale light and deep shadow. Seen this way, it will neither stop nor acknowledge attempts to communicate with it, whether by Dahan or Spirit. It might not even be there at all: perhaps it’s a reflection of a self somewhere else entirely; the realm of The Pathmaker, or some strange road that borders it.
+
+But beings which dream hear from the Bringer frequently, even if they rarely remember it. Certain patterns may even call its attention, if drawn with sand and scattered with breath before sleep. Since the Invaders came, it has tended towards more terrifying forms, even well before the current conflict arose.
+* Play Style:
+With most Spirits, Terror Victories are a backup plan if the main push against the Invaders stalls out for too long, but Bringer turns Fear into a more viable primary strategy. Its transformation of damage and destruction into Fear can turn Major Powers into tremendous sources of terror and panic. However, the only real offense Bringer has is the Dahan fighting back. While it does have some defensive ability, it is fundamentally poor at clearing areas of Invaders.
+* Setup
+Put 2 Presence on your starting board in the highest-numbered Sands.
+* Growth (Pick one)
+Option 1: Reclaim all; Gain Power card
+Option 2: Reclaim one; Add Presence, Range 0
+Option 3: Gain Power card; Add Presence, Range 1
+Option 4: Add Presence to land with Dahan or Invaders, Range 4; Gain 2 Energy
+* Presence Tracks
+** Energy
+2/Air/3/Moon/4/Any/5
+** Card Plays
+2/2/2/3/3/Any
+* Special Rules
+** To Dream a Thousand Deaths
+Your Powers never cause Damage, nor can they Destroy anything other than your own Presence.
+
+When a Power of yours would Destroy (or deal enough Damage to Destroy) Explorer/Town/City, generate 0/2/5 Fear instead. The Power Pushes all Explorer/Town it would Destroy.
+
+Notes: A single Power cannot Destroy a given Invader more than once. Powers which cause Damage via Dahan are affected just like all others. All effects other than Damage/Destroy work as usual.
+* Innate Powers
+** Spirits May Yet Dream
+Speed: Fast
+Target: Any Spirit
+2 Moon, 2 Air: Turn any face-down Fear Card face-up. (It’s earned/resolved
+normally, but players can see what’s coming.)
+3 Moon: Target Spirit gains an Element they have at least 1 of.
+** Night Terrors
+Speed: Fast
+Range: Presence: 0
+Target: Invaders
+1 Moon, 1 Air: 1 Fear.
+2 Moon, 1 Air, 1 Animal: +1 Fear.
+3 Moon, 2 Air, 1 Animal: +1 Fear.
+* Unique Powers
+** Call on Midnight's Dream
+Cost: 0
+Speed: Fast
+Range: Presence: 0
+Target: Any
+Elements: Moon, Animal
+Description: If target land has Dahan, gain a Major Power. If you Forget this Power, gain Energy equal to Dahan and you may play the Major Power immediately, paying its cost. -or- If Invaders are present, 2 Fear.
+** Dreams of the Dahan
+Cost: 0
+Speed: Fast
+Range: Presence: 2
+Target: Any
+Elements: Moon, Air
+Description: Gather up to 2 Dahan. -or- If target land has Town / City, 1 Fear for each Dahan, to a maximum of 3 Fear.
+** Predatory Nightmares
+Cost: 2
+Speed: Slow
+Range: SacredSite: 1
+Target: Invaders
+Elements: Moon, Fire, Earth, Animal
+Description: 2 Damage. Push up to 2 Dahan. (When your powers would destroy Invaders, instead they generate Fear and/or Push those Invaders.)
+** Dread Apparitions
+Cost: 2
+Speed: Fast
+Range: Presence: 1
+Target: Invaders
+Elements: Moon, Air
+Description: When Powers generate Fear in target land, Defend 1 per Fear. 1 Fear. (Fear from To Dream a Thousand Death counts. Fear from Destroying Town / City does not.)
+

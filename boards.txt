@@ -1,0 +1,59 @@
+With the ocean on your left, lands 1 to 3 are always coastal, from top
+to bottom. Lands 4 to 8 generally read bottom-to-top, right-to-left;
+land 8 is always in the far corner of the board, opposite land 3.
+* Board A
+** Land 1: Mountain. Empty.
+** Land 2: Wetland. 1 City, 1 Dahan.
+** Land 3: Jungle. 2 Dahan.
+** Land 4: Sands. 1 Blight.
+** Land 5: Wetland. Empty.
+** Land 6: Mountain. 1 Dahan.
+** Land 7: Sands. 2 Dahan.
+** Land 8: Jungle. 1 Town.
+* Board B
+** Land 1: Wetland. 1 Dahan
+** Land 2: Mountain. 1 City.
+** Land 3: Sands. 2 Dahan.
+** Land 4: Jungle. 1 Blight.
+** Land 5: Sands. Empty.
+** Land 6: Wetland. 1 Town.
+** Land 7: Mountain. 1 Dahan.
+** Land 8: Jungle. 2 Dahan
+* Board C
+** Land 1: Jungle. 1 Dahan.
+** Land 2: Sands. 1 City.
+** Land 3: Mountain. 2 Dahan.
+** Land 4: Jungle. Empty.
+** Land 5: Wetland. 2 Dahan, 1 Blight.
+** Land 6: Sands. 1 Dahan.
+** Land 7: Mountain. 1 Town.
+** Land 8: Wetland. Empty.
+* Board D
+** Land 1: Wetland. 2 Dahan.
+** Land 2: Jungle. 1 City, 1 Dahan.
+** Land 3: Wetland. Empty.
+** Land 4: Sands. Empty.
+** Land 5: Mountain. 1 Dahan, 1 Blight.
+** Land 6: Jungle. Empty.
+** Land 7: Sands. 1 Town, 2 Dahan.
+** Land 8: Mountain. Empty.
+* Board E
+Do not use with Board B in small games.
+** Land 1: Sands. 1 Dahan.
+** Land 2: Mountain. 1 City.
+** Land 3: Jungle. 2 Dahan.
+** Land 4: Wetland. 1 Blight.
+** Land 5: Mountain. 1 Dahan
+** Land 6: Sands. Empty.
+** Land 7: Jungle. 1 Town.
+** Land 8: Wetland. 2 Dahan.
+* Board F
+Do not use with Board D in small games.
+** Land 1: Sands. 2 Dahan.
+** Land 2: Jungle. 1 City.
+** Land 3: Wetland. 1 Dahan.
+** Land 4: Mountain. 1 Blight.
+** Land 5: Jungle. 1 Dahan.
+** Land 6: Mountain. 2 Dahan.
+** Land 7: Wetland. Empty.
+** Land 8: Sands. 1 Town.

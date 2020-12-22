@@ -1,0 +1,39 @@
+SPIRIT NAME
+* Complexity: Moderate
+* Flavor
+* Play Style:
+* Setup
+* Growth (Pick one)
+Option 1: Reclaim all;
+Option 2:
+Option 3:
+* Presence Tracks
+** Energy
+** Card Plays
+* Special Rules
+* Innate Powers
+** Power name
+Speed: XX
+Range: Presence: XX
+Target: XX
+* Unique Powers
+** 
+** 
+** 
+** 
+* ADVERSARY
+** Additional Loss Condition:
+** Level 0: Difficulty X
+Stage II Escalation:
+** Level 1: Difficulty X
+Fear Cards: 
+** Level 2: Difficulty X
+Fear Cards: 
+** Level 3: Difficulty X
+Fear Cards: 
+** Level 4: Difficulty X
+Fear Cards: 
+** Level 5: Difficulty X
+Fear Cards: 
+** Level 6: Difficulty X
+Fear Cards: 

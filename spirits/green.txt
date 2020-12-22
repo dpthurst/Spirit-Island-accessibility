@@ -1,0 +1,65 @@
+A SPREAD OF RAMPANT GREEN
+* Complexity: Moderate
+* Flavor
+One of the older spirits on the island, though it’s even more wild and
+exuberant these days than when it was young. Contrary to some stories, it
+does think things through - it’s just far more concerned with the process of
+life than with things like “consequences”.
+
+It’s not unfriendly to the Dahan, but its idea of a good time is to smother
+their buildings in all manner of inconvenient greenery, and its notion of
+“help” transforms carefully cultivated areas into overgrown thickets. Entire
+villages have been known to move to fresh planting-sites years early if a
+spirit-speaker suspects that Rampant Green is going to stay in the area for
+too long.
+* Play Style:
+Fairly good at dealing with Towns, but terrible at handling Explorers (who are
+unfazed by prolific foliage). Can get Presence onto the board faster than most other
+Spirits. Extra Presence is good for targeting and especially for “Choke the Land with
+Green”, which can be extremely effective at slowing down Invaders. Just be careful
+not to destroy Sacred Sites needed for Power use.
+* Setup
+Put 2 Presence on your starting board: 1 in the highest-numbered Wetland,
+and 1 in the Jungle without any Dahan. (If there is more than 1 such
+Jungle, you may choose.)
+* Growth:
+Always: Add Presence to Jungle or Wetland, Range 2
+Plus one of:
+Option 1: Reclaim all; Gain Power card
+Option 2: Add Presence, Range 1; +1 card play this turn
+Option 3: Gain Power card; Gain 3 Energy
+* Presence Tracks
+** Energy
+0/1/Plant/2/2/Plant/3
+** Card Plays
+1/1/2/2/3/4
+* Special Rules
+** Choke the Land with Green
+Whenever Invaders would Ravage or Build in a land with your Sacred
+Site, you may prevent it by destroying one of your Presence
+in that land.
+** Steady Regeneration
+When adding Presence to the board via Growth, you may optionally use
+your destroyed Presence. If the island is Healthy, do so freely. If
+the island is Blighted, doing so costs 1 Energy per destroyed Presence
+you add.
+* Innate Powers
+** Creepers Tear into Mortar
+Speed: Slow
+Range: Presence: 0
+Target: Any
+1 Moon, 2 Plant: 1 Damage to 1 Town / City.
+2 Moon, 3 Plant: Repeat this Power.
+3 Moon, 4 Plant: Repeat this Power again.
+** All-Enveloping Green
+Speed: Fast
+Range: SacredSite: 1
+Target: Any
+1 Water, 3 Plant: Defend 2.
+2 Water, 4 Plant: Instead, Defend 4.
+3 Water, 1 Earth, 5 Plant: Also, remove 1 Blight.
+* Unique Powers
+** Fields Choked with Growth
+** Stem the Flow of Fresh Water
+** Gift of Proliferation
+** Overgrow in a Night
