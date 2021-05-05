@@ -75,3 +75,95 @@ Local Autonomy: Town/City have +1 Health.
 ** Level 6: Difficulty 10
 Fear Cards: 13 (4/5/4)
 Independent Resolve: During Setup, add an additional Fear to the Fear Pool per player in the game. During any Invader Phase where you resolve no Fear Cards, perform the Build from High Immigration twice. (This has no effect if no card is on the extra Build slot.)
+* The Kingdom of France (Plantation Colony)
+** Additional Loss Condition
+Sprawling Plantations: Before Setup, return all but 7 Towns per player to the box. Invaders win if you ever cannot place a Town.
+** Level 0: Difficulty 2
+Stage II Escalation: Demand for New Cash Crops: After Exploring, on each board, pick a land of the shown terrain. If it has Town/City, add 1 Blight. Otherwise, add 1 Town.
+** Level 1: Difficulty 3
+Fear Cards: 9 (3/3/3)
+Frontier Explorers: Except during Setup: After Invaders successfully Explore into a land which had no Town/City, add 1 Explorer there.
+** Level 2: Difficulty 5
+Fear Cards: 10 (3/4/3)
+Slave Labor: During Setup, put the “Slave Rebellion” Event under the top 3 cards of the Event Deck. After Invaders Build in a land with 2 Explorers or more, replace all but 1 Explorer there with an equal number of Towns.
+** Level 3: Difficulty 7
+Fear Cards: 11 (4/4/3)
+Early Plantations: During Setup, on each board add 1 Town to the highest-numbered land without Town. Add 1 Town to land #1.
+** Level 4: Difficutly 8
+Fear Cards: 12 (4/4/4)
+Triangle Trade: Whenever Invaders Build a Coastal City, add 1 Town to the adjacent land with the fewest Town.
+** Level 5: Difficulty 9
+Fear Cards: 13 (4/5/4)
+Slow-Healing Ecosystem: When you remove Blight from the board, put it here  instead of onto the Blight Card. As soon as you have 3 Blight per player here, move it all back to the Blight Card.
+** Level 6: Difficulty 10
+Fear Cards: 14 (4/5/5)
+Persistent Explorers: After the normal Explore, on each board add 1 Explorer to a land without any. Fear Card effects never remove Explorers. If one would, you may instead Push that Explorer.
+* The Habsburg Monarchy (Livestock Colony)
+** Additional Loss Condition
+Irreparable Damage: Track how many Blight come off the Blight Card during Ravages that do 8+ Damage to the land. If that number ever exceeds players, the Invaders win.
+** Level 0 (Difficulty 2)
+Escalation: Seek Prime Territory: After Exploring: On each board with 4 or fewer Blight, add 1 Blight to a land without Town/Blight. On each board with 2 or fewer Blight, do so again.
+** Level 1 (Difficulty 3)
+Fear Cards: 10 (3/4/3)
+Migratory Herders: After the normal Build Step: In land matching a Build Card, Gather  1 Town from a land not matching a Build Card. (In board/land order.)
+** Level 2 (Difficulty 5)
+Fear Cards: 11 (4/5/2)
+More Rural Than Urban: During Setup, on each board, add 1 Town to land #2 and 1 Town to the highest-numbered land without Setup symbols. During Play, when Invaders would Build 1 City in an Inland land, they instead Build 2 Town.
+** Level 3 (Difficulty 6)
+Fear Cards: 12 (4/5/3)
+Fast Spread: When making the Invader Deck, Remove 1 additional Stage I Card. (New deck order: 11-2222-33333)
+** Level 4 (Difficulty 8)
+Fear Cards: 12 (4/5/3)
+Herds Thrive in Verdant Lands: Towns in lands without Blight are Durable: they have +2 Health, and “Destroy Town” effects instead deal 2 Damage (to Towns only) per Town they could Destroy. (”Destroy all“ works normally.)
+** Level 5 (Difficulty 9)
+Fear Cards: 13 (4/6/3)
+Wave of Immigration: Before the initial Explore, put the Habsburg Reminder Card under the top 5 Invader Cards. When revealed, on each board, add 1 City to a Coastal land without Cities and 1 Town to the 3 Inland lands with the fewest Blight.
+** Level 6 (Difficulty 10)
+Fear Cards: 14 (5/6/3)
+Far-Flung Herds: Ravages do +2 Damage (total)  if any adjacent lands have Towns. (This does not cause lands without Invaders to Ravage.)
+* The Tsardom of Russia
+** Additional Loss Condition
+Hunters Swarm the Island: Put Beasts Destroyed by Adversary rules on this panel. If there are ever more Beasts on this panel than on the island, the Invaders win.
+** Base Difficulty 1
+Escalation: Stalk the Predators: On each board: Add 2 Explorers (total) among lands with Beasts. If you can’t, instead add 2 Explorers among lands with Beasts on a different board.
+** Level 1 (Difficulty 3)
+Fear Cards: 10 (3/3/4)
+Hunters Seek Shell and Hide: During Setup, on each board, add 1 Beasts and 1 Explor to the highest-numbered land without Town/City. During Play, Explorers do +1 Damage. When Ravage adds Blight to a land (including cascades), Destroy 1 Beasts in that land.
+** Level 2 (Difficulty 4)
+Fear Cards: 11 (4/3/4)
+A Sense for Impending Disaster: The first time each Action would Destroy Explorers: If possible, 1 of those Explorers is instead Pushed; 1 Fear when you do so.
+** Level 3 (Difficulty 6)
+Fear Cards: 11 (4/4/3)
+Competition Among Hunters: Ravage also match lands with 3 or more Explorers. (If the already matched the Ravage Card, it still Ravages just once.)
+** Level 4 (Difficulty 7)
+Fear Cards: 12 (4/4/4)
+Accelerated Exploitation: When making the Invader Deck, put 1 Stage III Card after each Stage II Card. (New Deck Order: 111-2-3-2-3-2-3-2-33)
+** Level 5 (Difficulty 9)
+Fear Cards: 13 (4/5/4)
+Entrench in the Face of Fear: Put an unused Stage II Invader Card under the top 3 Fear Cards, and an unused Stage III Card under the top 7 Fear Cards. When one is revealed, immediately place it in the Build space (face-up).
+** Level 6 (Difficulty 11)
+Fear Cards: 14 (5/5/4)
+Pressure for Fast Profit: After the Ravage Step of turn 2+, on each board where it added no Blight: In the with the most Explorers (min. 1), add 1 Explorer on and 1 Town.
+* The Kingdom of Scotland
+Additional Loss Condition
+Trade Hub: If the number of Coastal lands with Cities is ever greater than (2 x # of boards), the Invaders win.
+** Base Difficulty 1
+Escalation: Ports Sprawl Outward: On the single board with the most Coastal Towns/Cities, add 1 Town to the N lands with the fewest Towns. (N = # of players.)
+** Level 1 (Difficulty 3)
+Fear Cards: 10 (3/4/3)
+Trading Port: After Setup, Explore Cards add 1 Town instead of 1 Explorer. “Coastal Lands” Invader Cards do this for maximum 2 lands per board.
+** Level 2 (Difficulty 4)
+Fear Cards: 11 (4/4/3)
+Seize Opportunity: During Setup, add 1 City to land #2. Place “Coastal Lands” as the 3rd Stage II Card, and move the two Stage II Cards above it up by one.(New Deck Order: 11-22-1-C2-33333, where C is the Stage II Coastal Lands Card.)
+** Level 3 (Difficulty 6)
+Fear Cards: 13 (4/5/4)
+Chart the Coastline: In Coastal lands, Build Cards affect lands without Invaders, so long as there is an adjacent City.
+** Level 4 (Difficulty 7)
+Fear Cards: 14 (5/5/4)
+Ambition of a Minor Nation: During Setup, replace the bottom Stage I Card with the bottom Stage III Card. (New Deck Order: 11-22-3-C2-3333)
+** Level 5 (Difficulty 8)
+Fear Cards: 15 (5/6/4)
+Runoff and Bilgewater: After a Ravage Action adds Blight to a Coastal land, add 1 Blight to that board’s Ocean (without cascading). Treat the Ocean as a Coastal Wetland for this rule and for Blight removal/movement.
+** Level 6 (Difficulty 10)
+Fear Cards: 16 (6/6/4)
+Exports Fuel Inward Growth: After the Ravage Step, add 1 Town to each Inland land that matches a Ravage Card and is within Range 1 of Town/City.
